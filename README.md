@@ -1,4 +1,4 @@
-> 这是一个 极简的 vue admin 管理后台 它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
+> 这是一个 极简的 vue admin 管理后台 它只包含了 Element UI & axios & vue-awesome & permission control & lint，这些搭建后台必要的东西。
 
 # 编码规范
 初衷：统一编码风格和规范，增强代码可读性。
